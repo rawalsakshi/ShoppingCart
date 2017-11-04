@@ -1,0 +1,142 @@
+html{	
+	position:relative;
+	background-color:#fff;
+}
+#navId{
+	margin-left: 15vw;
+
+}
+#aboutUs{
+	margin-right: 10vw;
+}
+#demo{
+	margin-top: 15vh;
+	margin-left: 15vw;
+	margin-right: 8vw;
+}
+#demo_details{
+	margin-top: 15vh;
+	margin-left: 15vw;
+	margin-right: 8vw;
+}
+
+#demo_cart{
+	margin-top: 15vh;
+	margin-left: 15vw;
+	margin-right: 8vw;
+}
+
+#cardDisplay{
+	width:400px;
+	height:600px;
+	display: inline-block;
+}
+
+#myCartBtn{
+	margin-left: 30vw;
+	margin-right: 30vw;
+	margin-bottom: 5vh;
+}
+
+#cartImage{
+	height: 300px;
+}
+.card-img-top{
+	-webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+
+.card-img-top:hover{
+	 -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+}
+
+#picture{
+	width:500px;
+	height:100vh;
+	display: inline-block;
+	float:left;
+}
+
+#carouselExampleIndicators{
+	height: 400px;
+    width: 400px;
+}   
+
+.detailImage{
+	width: 115px;
+	height: 100vh;
+	float: left;
+}
+
+.detailImage img{
+	width: 100px;
+	height:100px;
+	display: block;
+}
+
+.description{
+	width: 30vw;
+	background-size: 675px 233px;
+	text-align: left;
+	font-family: 'Sedgwick Ave Display';
+	font-size: 20px;
+	padding-top: 10PX;
+	background-repeat: no-repeat;
+	float:left;
+}
+
+.fn-fav{
+	background-color:#87CEFA;
+	text-align: center;
+	text-color:white;
+	display: inline-block;
+	font-size: 20px;
+	margin: 0px 5px;
+	cursor: pointer;
+	border-radius: 8px;
+}
+.addcart{
+	background-color:#87CEFA;
+	text-align: center;
+	text-color:white;
+	display: inline-block;
+	font-size: 20px;
+	margin: 0px 5px;
+	cursor: pointer;
+	border-radius: 8px;
+}
+
+.card{
+	display: inline-block;
+}	
+
+.noItem{
+	margin-left: 20vw;
+	margin-right: 20vw;
+	margin-top: 20vw;
+}
+
+#t01 {
+	width: 90%;
+	text-align: center;
+	font-family: 'Sedgwick Ave Display';
+	font-size: 20px;
+}
+#tdid{
+	text-align:left;
+}
+
+#tabName{
+	display:inline-block
+}
+
+#tabId{
+	height:100px;
+	width:100px;
+	display:inline-block;
+}
+
+th, td {
+	padding: 30px;
+}
